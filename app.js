@@ -98,3 +98,4 @@ toggleButton.addEventListener('click', () => {
 
 newGameBtn.addEventListener("click", resetGame);
 resetBtn.addEventListener("click", resetGame);
+
